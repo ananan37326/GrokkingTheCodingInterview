@@ -5,5 +5,6 @@
 ### 1. [Sliding Window](/1.Sliding%20Window/)
 
 > Maximum sum subarray of size k
+
 > Smallest subarray with a given sum
 
