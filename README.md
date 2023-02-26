@@ -4,7 +4,9 @@
 
 ### 1. [Sliding Window](/1.Sliding%20Window/)
 
-> Maximum sum subarray of size k
+> Maximum Sum Subarray of Size K
 
 > Smallest subarray with a given sum
+
+> Longest Substring with K Distinct Characters
 
