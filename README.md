@@ -17,3 +17,5 @@
 > Longest Substring with Same Letters after Replacement
 
 > Longest Subarray with Ones after Replacement
+
+> Problem Challenge 1- Permutation in a String
