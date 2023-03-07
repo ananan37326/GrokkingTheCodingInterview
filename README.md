@@ -15,3 +15,5 @@
 > No Repeat Substring
 
 > Longest Substring with Same Letters after Replacement
+
+> Longest Subarray with Ones after Replacement
