@@ -18,4 +18,6 @@
 
 > Longest Subarray with Ones after Replacement
 
-> Problem Challenge 1- Permutation in a String
+> Problem Challenge 1 - Permutation in a String
+
+> Problem Challenge 2 - String Anagrams
