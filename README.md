@@ -21,3 +21,5 @@
 > Problem Challenge 1 - Permutation in a String
 
 > Problem Challenge 2 - String Anagrams
+
+> Problem Challenge 3 - Smallest Window containing Substring
