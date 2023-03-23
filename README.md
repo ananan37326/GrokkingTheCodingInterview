@@ -34,6 +34,6 @@
 <details>
 <summary> Two Pointer Problems (click to expand or collapse) </summary>
 
->
+> Pair with Target Sum
 
 </details>
