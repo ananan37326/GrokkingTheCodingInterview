@@ -4,6 +4,9 @@
 
 ### 1. [Sliding Window](/1.Sliding%20Window/)
 
+<details>
+<summary> Sliding Window Problems (click to expand or collapse) </summary>
+
 > Maximum Sum Subarray of Size K
 
 > Smallest subarray with a given sum
@@ -23,3 +26,6 @@
 > Problem Challenge 2 - String Anagrams
 
 > Problem Challenge 3 - Smallest Window containing Substring
+
+</details>
+
