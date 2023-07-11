@@ -38,4 +38,6 @@
 
 > Remove Duplicates
 
+> Squaring a Sorted Array
+
 </details>
