@@ -44,4 +44,6 @@
 
 > Triplet Sum Close to Target
 
+> Triplet with Smaller Sum 
+
 </details>
